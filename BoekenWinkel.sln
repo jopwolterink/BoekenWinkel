@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoekenWinkel", "BoekenWinkel.csproj", "{657B1301-83AC-4034-B0F1-23CBD8BF51B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoekenWinkelConsole", "BoekenWinkelConsole\BoekenWinkelConsole.csproj", "{375534D4-0D71-4C50-8F81-9F99DB566800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoekenWinkelUnitTest", "BoekenWinkelUnitTest\BoekenWinkelUnitTest.csproj", "{7D9FAAF9-8AC0-48A5-9F81-799DF1EAEA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657B1301-83AC-4034-B0F1-23CBD8BF51B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657B1301-83AC-4034-B0F1-23CBD8BF51B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657B1301-83AC-4034-B0F1-23CBD8BF51B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657B1301-83AC-4034-B0F1-23CBD8BF51B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375534D4-0D71-4C50-8F81-9F99DB566800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375534D4-0D71-4C50-8F81-9F99DB566800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375534D4-0D71-4C50-8F81-9F99DB566800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375534D4-0D71-4C50-8F81-9F99DB566800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9FAAF9-8AC0-48A5-9F81-799DF1EAEA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9FAAF9-8AC0-48A5-9F81-799DF1EAEA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9FAAF9-8AC0-48A5-9F81-799DF1EAEA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9FAAF9-8AC0-48A5-9F81-799DF1EAEA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
